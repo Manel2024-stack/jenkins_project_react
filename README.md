@@ -56,4 +56,3 @@ Si vous souhaitez exécuter l'application dans un conteneur Docker, vous pouvez 
    ```
 
    L'application sera accessible à l'adresse `http://localhost:3000` dans votre navigateur.
-# jenkins_project_react
